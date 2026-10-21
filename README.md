@@ -27,4 +27,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di komputer lokal:
    cd restoran-app
 
 ## penggunaan AI
-Dari langkap pembuatan saya menggunakan Ai untuk membantu pengerjaan nya ,untuk mempermudah dan mempercepat pembuatan nya
+Dari langkah pembuatan saya menggunakan Ai untuk membantu pengerjaan nya ,untuk mempermudah dan mempercepat pembuatan nya
