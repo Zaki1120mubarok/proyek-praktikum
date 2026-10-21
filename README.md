@@ -27,4 +27,12 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di komputer lokal:
    cd restoran-app
 
 ## penggunaan AI
-Dari langkah pembuatan saya menggunakan Ai untuk membantu pengerjaan nya ,untuk mempermudah dan mempercepat pembuatan nya
+Selama proses pengerjaan tugas proyek ini, bantuan AI (Gemini) dimanfaatkan secara jujur dan transparan untuk:
+
+Pemecahan Masalah (Troubleshooting): Membantu menganalisis dan menyelesaikan pesan galat (error) saat proses build serta kendala sintaksis pada Git.
+
+Pemahaman Konsep: Membantu memahami penerapan props destructuring dan conditional rendering (operator ternari) pada komponen React.
+
+Penyusunan Dokumentasi: Membantu memformulasi struktur berkas README.md agar rapi dan sesuai dengan pedoman lembar kerja.
+
+Seluruh kode yang dihasilkan dari bantuan AI telah dipelajari, dipahami, dan disesuaikan sendiri sesuai kebutuhan proyek.
