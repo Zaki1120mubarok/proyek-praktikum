@@ -1,3 +1,4 @@
+// Komponen utama aplikasi restoran
 import MenuCard from './components/MenuCard.jsx';
 
 export default function App() {
